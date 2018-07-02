@@ -1,0 +1,19 @@
+c:\users\sekine\documents\visual studio 2015\Projects\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe.config
+c:\users\sekine\documents\visual studio 2015\Projects\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe
+c:\users\sekine\documents\visual studio 2015\Projects\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+c:\users\sekine\documents\visual studio 2015\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csprojResolveAssemblyReference.cache
+c:\users\sekine\documents\visual studio 2015\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Properties.Resources.resources
+c:\users\sekine\documents\visual studio 2015\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.GenerateResource.Cache
+c:\users\sekine\documents\visual studio 2015\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
+c:\users\sekine\documents\visual studio 2015\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
+C:\Users\Sekine\documents\visual studio 2015\Projects\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Form1.resources
+C:\Users\myuser\Desktop\calculatorSakina\p302-20-07-2017-SeVuq-master\MyCalculator\bin\Debug\MyCalculator.exe.config
+C:\Users\myuser\Desktop\calculatorSakina\p302-20-07-2017-SeVuq-master\MyCalculator\bin\Debug\MyCalculator.exe
+C:\Users\myuser\Desktop\calculatorSakina\p302-20-07-2017-SeVuq-master\MyCalculator\bin\Debug\MyCalculator.pdb
+C:\Users\myuser\Desktop\calculatorSakina\p302-20-07-2017-SeVuq-master\MyCalculator\obj\Debug\MyCalculator.csprojAssemblyReference.cache
+C:\Users\myuser\Desktop\calculatorSakina\p302-20-07-2017-SeVuq-master\MyCalculator\obj\Debug\MyCalculator.Form1.resources
+C:\Users\myuser\Desktop\calculatorSakina\p302-20-07-2017-SeVuq-master\MyCalculator\obj\Debug\MyCalculator.Properties.Resources.resources
+C:\Users\myuser\Desktop\calculatorSakina\p302-20-07-2017-SeVuq-master\MyCalculator\obj\Debug\MyCalculator.csproj.GenerateResource.cache
+C:\Users\myuser\Desktop\calculatorSakina\p302-20-07-2017-SeVuq-master\MyCalculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\myuser\Desktop\calculatorSakina\p302-20-07-2017-SeVuq-master\MyCalculator\obj\Debug\MyCalculator.exe
+C:\Users\myuser\Desktop\calculatorSakina\p302-20-07-2017-SeVuq-master\MyCalculator\obj\Debug\MyCalculator.pdb
